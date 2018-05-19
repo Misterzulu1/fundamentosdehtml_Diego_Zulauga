@@ -1,0 +1,51 @@
+<<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset=¨utf-8¨>
+		<meta name="viewport" content="width=device-widith, user-scalable=no" >
+		<title>Experiencia</title>
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
+ "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg version="1.0" xmlns="http://www.w3.org/2000/svg"
+ width="299.000000pt" height="100.000000pt" viewBox="0 0 299.000000 100.000000"
+ preserveAspectRatio="xMidYMid meet">
+
+<g transform="translate(0.000000,100.000000) scale(0.100000,-0.100000)"
+fill="#000000" stroke="none">
+<path d="M2886 883 c-45 -91 -210 -398 -220 -410 -1 -1 -71 115 -156 257
+l-155 259 -183 1 -183 0 13 -24 c36 -67 514 -856 518 -856 3 0 29 46 59 103
+30 56 120 221 201 367 191 343 213 387 206 405 -3 8 -13 15 -23 15 -13 0 -35
+-33 -77 -117z"/>
+<path d="M0 525 l0 -465 25 0 25 0 0 465 0 465 -25 0 -25 0 0 -465z"/>
+<path d="M100 525 l0 -465 189 0 c228 0 326 12 406 49 318 147 319 683 2 831
+-83 39 -165 50 -399 50 l-198 0 0 -465z m567 380 c157 -70 245 -257 214 -453
+-34 -221 -176 -341 -403 -342 l-68 0 0 416 0 417 98 -5 c78 -4 109 -10 159
+-33z"/>
+<path d="M1060 975 c-25 -30 0 -35 181 -35 98 0 179 -3 179 -6 0 -3 -94 -199
+-210 -435 -115 -235 -210 -431 -210 -434 0 -3 10 -5 23 -5 21 0 46 46 227 418
+112 229 214 438 227 465 l23 47 -214 0 c-175 0 -216 -3 -226 -15z"/>
+<path d="M1335 534 c-124 -252 -225 -461 -225 -466 0 -11 731 -10 749 1 8 5
+11 16 8 25 -6 14 -32 16 -202 16 l-196 0 6 22 c9 28 230 488 329 687 71 140
+79 152 91 134 7 -10 140 -230 294 -487 263 -439 281 -467 292 -443 10 23 -11
+61 -271 495 l-282 471 -184 1 -184 1 -225 -457z"/>
+</g>
+</svg>
+</head>
+<body>
+	<h1>Hoja de Vida</h1>
+		<h2>Diego Zuluaga Bogota D.C. Enero 27 de 1974</h2>
+		<ul>
+			<li><a href="/Users/doraemon/Desktop/Hoja de Vida Digital/hipervinculos/html/inicio.html">Inicio</a></li>
+			<li><a href="/Users/doraemon/Desktop/Hoja de Vida Digital/hipervinculos/html/educacion.html">Educacion</a></li>
+		</ul>
+	<h2>Experiencia</h2>	
+	<h3>Video Test Canam X3 Turbo</h3>	
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/gjIRIL2eXkY" frameborder="1" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+	<h3>Audio</h3><audio src="/Users/doraemon/Desktop/Recordering.mp3" controls autoplay="/Users/doraemon/Desktop/Recordering.mp3"> </audio>
+</body>
+<footer>
+		<h2>Movil 311 442 4983 email: info@diegozuluaga.com.co</h2>
+</footer>
+</html>
